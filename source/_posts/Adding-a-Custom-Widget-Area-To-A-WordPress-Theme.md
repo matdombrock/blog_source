@@ -1,7 +1,7 @@
 ---
 title: Adding a Custom Widget Area To A WordPress Theme
 date: 2019-10-28 18:34:39
-tags:
+tags: WordPress
 ---
 This guide will cover adding a custom widget area to a WordPress theme. For this example, we will be adding a new widget area to the top of an Archive page.
 

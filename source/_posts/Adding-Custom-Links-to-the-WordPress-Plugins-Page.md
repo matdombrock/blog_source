@@ -1,7 +1,7 @@
 ---
 title: Adding Custom Links to the WordPress Plugins Page
 date: 2019-10-29 18:33:00
-tags:
+tags: WordPress
 ---
 ## Introduction
 This is unfountunatly not a very well documented feature, so I thought I would include a quick guide here.

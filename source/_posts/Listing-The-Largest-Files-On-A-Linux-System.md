@@ -1,7 +1,8 @@
 ---
 title: Listing The Largest Files On A Linux System
 date: 2020-01-12 18:28:04
-tags:
+tags: 
+- Linux
 ---
 ## Introduction
 I've struggled with managing my disk usage on Linux systems without a GUI for a while now. Jumping all over the system and checking for large files is basically a wild goose chase, but this command has helped a lot with quickly discovering the largest files on my system. This is something I should have been doing a long time ago.

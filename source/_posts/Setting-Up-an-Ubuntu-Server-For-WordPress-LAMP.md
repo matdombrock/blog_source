@@ -2,6 +2,8 @@
 title: Setting Up an Ubuntu Server For WordPress (LAMP)
 date: 2019-10-28 18:33:35
 tags:
+- Linux
+- WordPress
 ---
 ### Getting Ready
 Update your package list and install upgrades:

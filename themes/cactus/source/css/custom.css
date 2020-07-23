@@ -1,0 +1,11 @@
+/* This is my custom CSS that is used to override the theme css
+I had to edit the them's head layout to insert this */
+
+article .content blockquote {
+  color:#f9bff2;
+  border-left: 1px solid #f9bff2;
+}
+
+article .content blockquote:before {
+  content: none;
+}

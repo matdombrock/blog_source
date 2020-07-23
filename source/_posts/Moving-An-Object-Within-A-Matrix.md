@@ -1,7 +1,9 @@
 ---
 title: Moving An Object Within A Matrix
 date: 2019-12-04 18:30:37
-tags:
+tags: 
+- Graphics
+- JavaScript
 ---
 ## Introduction
 This guide will attempt to explain how we can move (translate) an object (set or shape) in a two dimensional matrix which is a key concept of graphics programming.

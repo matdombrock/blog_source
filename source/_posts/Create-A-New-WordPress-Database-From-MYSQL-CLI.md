@@ -1,7 +1,7 @@
 ---
 title: Create A New WordPress Database From MYSQL CLI
 date: 2019-04-22 18:37:25
-tags:
+tags: Databases
 ---
 Creating a new database for WordPress from the MYSQL command line interface is easy. 
 

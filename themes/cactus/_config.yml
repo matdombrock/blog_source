@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/matdombrock
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -93,13 +93,13 @@ logo:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: /images/favicon.ico
+    url: /images/favicon.png
     gravatar: false
   android:
     url: /images/favicon-192x192.png
     gravatar: false
   apple:
-    url: /images/apple-touch-icon.png
+    url: /images/favicon.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
@@ -120,7 +120,7 @@ page_width: 48
 ##############################################################################
 
 # Enable or disable the RSS feed.
-rss: false
+rss: true
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph:
@@ -137,7 +137,7 @@ open_graph:
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
   enabled: false
-  shortname: cactus-1
+  shortname: matdombrock-1
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:

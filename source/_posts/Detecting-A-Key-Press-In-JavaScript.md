@@ -1,7 +1,7 @@
 ---
 title: Detecting A Key Press In JavaScript
 date: 2019-12-04 18:29:39
-tags:
+tags: JavaScript
 ---
 ## Introduction
 Detecting and accepting keyboard input on your web app or site or game is something that can greatly improve the experience of your users. HTML already has ways to collect text based input like this:

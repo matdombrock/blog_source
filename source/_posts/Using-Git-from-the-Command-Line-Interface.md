@@ -1,7 +1,7 @@
 ---
 title: Using Git from the Command Line Interface
 date: 2019-06-22 18:36:27
-tags:
+tags: Git
 ---
 ## Introduction
 Git is a powerful tool that is used to track software versions and help teams collaborate on large projects. GitHub is an awesome website where people can share, show off and collaborate on open-source software.

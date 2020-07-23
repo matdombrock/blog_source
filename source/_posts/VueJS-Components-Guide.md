@@ -1,7 +1,9 @@
 ---
 title: VueJS Components Guide
 date: 2019-12-04 18:31:41
-tags:
+tags: 
+- Front-end
+- JavaScript
 ---
 ## Introduction
 **NOTE:** *This guide assumes that you are already somewhat familiar with VueJS. This is not a guide for basic VueJS usage. If you want to learn the basics of VueJS there is an excellent tutorial on [VueJS.org](https://vuejs.org/v2/guide/installation.html).*

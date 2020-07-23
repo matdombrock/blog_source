@@ -1,7 +1,9 @@
 ---
 title: Using Parasails Utility Functions With SailsJS to Re-use Front-End Code
 date: 2019-10-28 18:35:19
-tags:
+tags: 
+- Front-end
+- JavaScript
 ---
 When developing anything but the most trivial web apps, you often end up writing code that you want to use in multiple places. If you have some back-end NodeJS code you want to re-use can use [Sails Helpers](https://sailsjs.com/documentation/concepts/helpers). However, reusing front-end Javascript with Sails is not quite so straight-forward. 
 

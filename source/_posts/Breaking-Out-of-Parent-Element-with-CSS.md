@@ -1,7 +1,9 @@
 ---
 title: Breaking Out of Parent Element with CSS
 date: 2019-10-28 18:34:08
-tags:
+tags: 
+- Front-end
+- CSS
 ---
 ## Introduction
 Often times when developing CSS for a WordPress child theme or just when working with someone elses stylesheets in general, it can be desirable to "breakout" of the parent element and draw a full width element that stretches the entire width of the page.

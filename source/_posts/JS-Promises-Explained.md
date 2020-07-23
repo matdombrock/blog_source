@@ -1,7 +1,7 @@
 ---
 title: JS Promises Explained
 date: 2019-07-28 18:35:55
-tags:
+tags: JavaScript
 ---
 ## A Quick Example
 Before I get started I will show a quick example of an implementation of promises for reference.

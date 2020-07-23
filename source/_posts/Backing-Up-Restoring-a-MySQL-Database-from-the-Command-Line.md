@@ -1,7 +1,7 @@
 ---
 title: Backing Up & Restoring a MySQL Database from the Command Line
 date: 2019-11-16 18:32:19
-tags:
+tags: Databases
 ---
 A quick guide on using the MySQL CLI to manage your database backups.
 

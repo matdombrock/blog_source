@@ -1,12 +1,22 @@
 [
   {
-     "name":"Hexo",
-     "url":"https://hexo.io/",
-     "desc":"A fast, simple & powerful blog framework"
+    "name":"Asayake Player",
+    "url":"https://github.com/matdombrock/Asayake-Player",
+    "desc":"A simple, modular and highly customizable HTML 5 audio player for WordPress with support for playlists."
   },
   {
-     "name":"Font Awesome",
-     "url":"http://fontawesome.io/",
-     "desc":"The iconic font and CSS toolkit"
+     "name":"Lifx Zero",
+     "url":"https://github.com/matdombrock/lifx-zero",
+     "desc":"A NodeJS API Wrapper For The LIFX light bulb API."
+  },
+  {
+     "name":"Xebra Notes",
+     "url":"https://github.com/matdombrock/Xebra-Notes",
+     "desc":"A simple note taking application. Similar to Google Keep but with some Kaban-like features."
+  },
+  {
+    "name":"Discover Bot",
+    "url":"https://github.com/matdombrock/Discover-Bot",
+    "desc":"Python3 Discord Bot for the Discover Programming discord."
   }
 ]
